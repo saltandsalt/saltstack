@@ -1,0 +1,2 @@
+# saltstack
+study of saltstack
